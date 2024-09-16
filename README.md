@@ -29,6 +29,6 @@ The dataset spans from March 2024 to Present time, capturing daily transaction d
 
 * Complete the Exploratory Data Analaysis(EDA)
 
-* Ans at last we will have our conclusion
+* And at last we will have our conclusion
 
 
