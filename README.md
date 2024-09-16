@@ -21,3 +21,14 @@ The dataset spans from March 2024 to Present time, capturing daily transaction d
 ● Specific customer purchases
 
 
+We will follow below steps:
+
+ #Import Packages
+
+#Load the data
+
+#Complete the Exploratory Data Analaysis(EDA)
+
+#Ans at last we will have our conclusion
+
+
